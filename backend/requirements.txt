@@ -1,0 +1,6 @@
+django
+beautifulsoup4
+dashscope
+markdown
+websocket
+websocket-client
